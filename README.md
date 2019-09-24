@@ -1,7 +1,7 @@
 ### ARDUINO PROJECT: DHT11 + I2C
 Visualización de los datos de temperatura y humedad sobre una pantalla LCD con Arduino
 
-![] (images/20190924_131223.jpg)
+![](images/20190924_131223.jpg)
 
 ##### Elementos necesarios:
 - Arduino UNO
